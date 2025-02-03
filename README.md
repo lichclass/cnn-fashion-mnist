@@ -13,3 +13,15 @@ The model will classify whether the input are the following:
 - 9 Ankle Boot
 
 This will be a testing ground for detecting Valid ID's  
+
+---
+Update:
+
+(February 4, 2025)
+Hidden Layers:
+- ConL1 -> 128
+- ConL2 -> 64
+- ConL3 -> 32
+- Dense1 -> 128
+
+Accuracy: 85% :(
