@@ -15,7 +15,7 @@ The model will classify whether the input are the following:
 This will be a testing ground for detecting Valid ID's  
 
 ---
-Update:
+# Update:
 
 (February 4, 2025)
 Hidden Layers:
